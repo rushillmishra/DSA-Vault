@@ -1,7 +1,7 @@
 # 1365. How Many Numbers Are Smaller Than the Current Number
 
 - **Difficulty:** Easy
-- **Problem Link:** [LeetCode #1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+- **Problem Link:** [LeetCode #1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 - **Topic:** Array, Hash Table, Sorting
 
 ## Problem Description
