@@ -27,13 +27,27 @@ class Solution:
         # return res
 
         #Approach 3
-        freq = [0]*102
+        # freq = [0]*102
+        #
+        # for num in nums:
+        #     freq[num+1] += 1
+        #
+        # for i in range(1, 101):
+        #     freq[i] += freq[i-1]
+        #
+        # return [freq[num] for num in nums]
+
+        #Approach 4
+        max_num = max(nums)
+        freq = [0] * (max_num+2)
+        print(freq)
 
         for num in nums:
-            freq[num+1] += 1
+            freq[num + 1] += 1
 
-        for i in range(1, 101):
-            freq[i] += freq[i-1]
+        for i in range(1, max_num+1):
+            freq[i] += freq[i - 1]
+        print(freq)
 
         return [freq[num] for num in nums]
 

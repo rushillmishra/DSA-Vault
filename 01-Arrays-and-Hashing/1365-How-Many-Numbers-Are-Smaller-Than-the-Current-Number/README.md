@@ -29,3 +29,9 @@ which is equal to the size of original array.
 - **Status:** *Accepted*
 - **Time Complexity:** $O(n)$ since it takes that much time to traverse through original `nums` array to populate the frequency array.
 - **Space Complexity:** $O(1)$ since the auxiliary space does not scale with the size of the array.
+
+### 4. Optimized Counting Sort with Max_Num
+- **Intuition:** Initializing a frequency array of size 102 everytime might result in creation of sparse matrix and waste a lot of space if the maximum element of nums is small so instead of initializing the array with 102 indices, calculate the maximum element of the array and create a frequency array of that size to reduce wastage of space.
+- **Status:** *Accepted*
+- **TC:** $O(n)$ since it takes that much time to traverse through original array to populate the frequency array.
+- **SC:** $O(max(n))$ since now the frequency array is created according to the max element present in nums. 
