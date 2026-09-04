@@ -10,8 +10,8 @@ A structured collection of Data Structures & Algorithms solutions and conceptual
 | :--- |:--------------------------------------------------------------------------------------------------------------------------------------------------------| :--- | :--- |:---------|:------------------------------------------------------------------------------------------------------|
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)                                         | Easy | Math & Geometry | Python   | [Notes & Solution](./16-Math-and-Geometry/1523-Count-Odd-Numbers-In-An-Interval-Range/)               |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/) | Easy | Array, Hashing, Sorting | Python   | [Notes & Solution](./01-Arrays-and-Hashing/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number) |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | Python | [Notes & Solution](./03-Linked-Lists/2-Add-Two-Numbers/) |
-| 3903 | [Smallest Stable Index 1](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | Array, Prefix Sum | Python | [Notes & Solution](./01-Arrays-and-Hashing/3903-Smallest-Stable-Index-1) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | Python | [Notes & Solution](./03-Linked-Lists/2-Add-Two-Numbers/)                                              |
+| 3903 | [Smallest Stable Index 1](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | Array, Prefix Sum | Python | [Notes & Solution](./01-Arrays-and-Hashing/3903-Smallest-Stable-Index-I)                              |
 ---
 
 ### 📂 Topic Directory
