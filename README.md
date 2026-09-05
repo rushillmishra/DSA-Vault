@@ -12,6 +12,7 @@ A structured collection of Data Structures & Algorithms solutions and conceptual
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/) | Easy | Array, Hashing, Sorting | Python   | [Notes & Solution](./01-Arrays-and-Hashing/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | Python | [Notes & Solution](./03-Linked-Lists/2-Add-Two-Numbers/)                                              |
 | 3903 | [Smallest Stable Index 1](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | Array, Prefix Sum | Python | [Notes & Solution](./01-Arrays-and-Hashing/3903-Smallest-Stable-Index-I)                              |
+| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/description/) | Medium | Array. Prefix Sum | Python | [Notes & Solution](./01-Arrays-and-Hashing/3904-Smallest-Stable-Index-II)                             | 
 ---
 
 ### 📂 Topic Directory
