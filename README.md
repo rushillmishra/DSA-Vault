@@ -17,7 +17,7 @@ A structured collection of Data Structures & Algorithms solutions and conceptual
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)                                                       | Easy       | Tree, Binary Tree, DFS, Stack   | Python   | [Notes & Solution](./05-Trees/145-Binary-Tree-Postorder-Traversal)                                    |
 | 3870 | [Count Commas In a Range](https://leetcode.com/problems/count-commas-in-range/description)                                                             | Easy       | Math                            | Python   | [Notes & Solution](./16-Math-and-Geometry/3870-Count-Commas-In-a-Range)                               |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits/description)                                                                                     | Easy       | Math, Simulation, Number Theory | Python   | [Notes & Solution](./16-Math-and-Geometry/258-Add-Digits)                                             |
-
+| 263  | [Ugly Number](https://leetcode.com/problems/ugly-number)                                                                                               | Easy       | Math                            | Python   | [Notes & Solution](./16-Math-and-Geometry/263-Ugly-Number)                                            |
 ---
 
 ### 📂 Topic Directory
