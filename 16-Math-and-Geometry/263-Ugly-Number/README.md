@@ -17,7 +17,7 @@ Given an integer `n`, return `true` *if* `n` is an **ugly number**.
   - Whether the number is 1 which has no prime factor (an empty subset of prime factors)
   - Whether the number is subset of given set i.e. is number itself 2 or 3 or 5 
 
-If the number is positive but fails the last two condition, we simply check if after dividing it by the prime factos (2, 3, 5) it results to 1 or not. If it does then it is an ugly number else not.
+If the number is positive but fails the last two condition, we simply check if after dividing it by the prime factors (2, 3, 5) it results to 1 or not. If it does then it is an ugly number else not.
 - **Status:** *Accepted*
 - **Time Complexity:** $O(log n)$ since at each iteration the number is reduced by any of the factors. 
 - **Space Complexity:** $O(1)$
